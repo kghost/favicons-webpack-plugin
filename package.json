@@ -1,5 +1,5 @@
 {
-  "name": "favicons-webpack-plugin",
+  "name": "@kghost/favicons-webpack-plugin",
   "version": "0.0.9",
   "description": "Let webpack generate all your favicons and icons for you",
   "main": "index.js",
